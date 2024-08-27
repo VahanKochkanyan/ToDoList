@@ -1,0 +1,14 @@
+.App {
+  max-width: 650px;
+  margin: 100px auto;
+  padding: 20px;
+  background-color: #c4cecf;
+  border-radius: 50px;
+}
+
+h1 {
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  margin-bottom: 40px;
+}
